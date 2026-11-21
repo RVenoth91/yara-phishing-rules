@@ -13,7 +13,7 @@
 
 ---
 
-> **[!] SEC_ALERT // INITIATING DIRECT APPROACH:** 
+> **[!] SEC_ALERT // INITIATING DIRECT APPROACH :** 
 > Ce dépôt a été conçu spécifiquement pour démontrer mes compétences en **Cyber Threat Intelligence** et prouver ma valeur technique avant d'intégrer vos équipes en **PMSMP immédiate** puis en **alternance**.
 
 ---
